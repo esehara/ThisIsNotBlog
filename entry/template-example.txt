@@ -1,0 +1,8 @@
+Name::やさしいインターネット
+Url::http://www45045u.sakura.ne.jp/
+Author::esehara
+File::201206.html
+Description::似非原の生存報告です。
+---
+Date::2012-06-01
+---
