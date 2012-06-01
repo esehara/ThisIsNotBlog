@@ -1,3 +1,7 @@
+#/bin/env python3
+#
+# ThisIsNotBlog for Python 3.x
+
 import sys
 import datetime
 import re
